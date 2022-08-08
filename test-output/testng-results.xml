@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-25T21:26:51 EET" name="Test-OrangeHRM-Site" finished-at="2022-07-25T21:28:18 EET" duration-ms="87284">
+    <groups>
+    </groups>
+    <test started-at="2022-07-25T21:26:51 EET" name="Tests" finished-at="2022-07-25T21:28:18 EET" duration-ms="87284">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:26:51 EET" name="openBrowser" finished-at="2022-07-25T21:26:58 EET" duration-ms="7067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setupData()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:26:58 EET" name="setupData" finished-at="2022-07-25T21:26:58 EET" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testLoginWithInValidEmailAndInValidPAssword()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:26:58 EET" name="testLoginWithInValidEmailAndInValidPAssword" finished-at="2022-07-25T21:27:00 EET" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInValidEmailAndInValidPAssword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:00 EET" name="closeBrowser" finished-at="2022-07-25T21:27:00 EET" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:00 EET" name="openBrowser" finished-at="2022-07-25T21:27:06 EET" duration-ms="5842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testLoginWithInValidEmailAndValidPAssword()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:06 EET" name="testLoginWithInValidEmailAndValidPAssword" finished-at="2022-07-25T21:27:07 EET" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInValidEmailAndValidPAssword -->
+        <test-method is-config="true" signature="setupData()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:06 EET" name="setupData" finished-at="2022-07-25T21:27:06 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:07 EET" name="closeBrowser" finished-at="2022-07-25T21:27:08 EET" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:08 EET" name="openBrowser" finished-at="2022-07-25T21:27:14 EET" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testLoginWithValidEmailAndInValidPAssword()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:14 EET" name="testLoginWithValidEmailAndInValidPAssword" finished-at="2022-07-25T21:27:16 EET" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidEmailAndInValidPAssword -->
+        <test-method is-config="true" signature="setupData()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:14 EET" name="setupData" finished-at="2022-07-25T21:27:14 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:16 EET" name="closeBrowser" finished-at="2022-07-25T21:27:16 EET" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:16 EET" name="openBrowser" finished-at="2022-07-25T21:27:22 EET" duration-ms="5710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setupData()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:22 EET" name="setupData" finished-at="2022-07-25T21:27:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testLoginWithValidEmailAndPassword()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:22 EET" name="testLoginWithValidEmailAndPassword" finished-at="2022-07-25T21:27:25 EET" duration-ms="2830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidEmailAndPassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@2f217633]" started-at="2022-07-25T21:27:25 EET" name="closeBrowser" finished-at="2022-07-25T21:27:26 EET" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.AssignLeaveTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.AssignLeaveTest@47e2e487]" started-at="2022-07-25T21:28:06 EET" name="openBrowser" finished-at="2022-07-25T21:28:12 EET" duration-ms="5910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AssignLeaveTest@47e2e487]" started-at="2022-07-25T21:28:12 EET" name="setup" finished-at="2022-07-25T21:28:16 EET" duration-ms="4721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="assignLeaveWithValidData()[pri:0, instance:tests.AssignLeaveTest@47e2e487]" started-at="2022-07-25T21:28:16 EET" name="assignLeaveWithValidData" finished-at="2022-07-25T21:28:18 EET" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignLeaveWithValidData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.AssignLeaveTest@47e2e487]" started-at="2022-07-25T21:28:18 EET" name="closeBrowser" finished-at="2022-07-25T21:28:18 EET" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.AssignLeaveTest -->
+      <class name="tests.AddEmployeeTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:26 EET" name="openBrowser" finished-at="2022-07-25T21:27:32 EET" duration-ms="5841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:32 EET" name="setup" finished-at="2022-07-25T21:27:34 EET" duration-ms="2974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addEmployeePhotographWithPNGImage()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:34 EET" name="addEmployeePhotographWithPNGImage" finished-at="2022-07-25T21:27:38 EET" duration-ms="3493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeePhotographWithPNGImage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:38 EET" name="closeBrowser" finished-at="2022-07-25T21:27:39 EET" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:39 EET" name="openBrowser" finished-at="2022-07-25T21:27:45 EET" duration-ms="5894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:45 EET" name="setup" finished-at="2022-07-25T21:27:48 EET" duration-ms="2976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addEmployeeWithInValidEmptyFields()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:48 EET" name="addEmployeeWithInValidEmptyFields" finished-at="2022-07-25T21:27:49 EET" duration-ms="1863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeWithInValidEmptyFields -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:49 EET" name="closeBrowser" finished-at="2022-07-25T21:27:50 EET" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:50 EET" name="openBrowser" finished-at="2022-07-25T21:27:56 EET" duration-ms="5795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:56 EET" name="setup" finished-at="2022-07-25T21:27:59 EET" duration-ms="3313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addEmployeeWithValidData()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:27:59 EET" name="addEmployeeWithValidData" finished-at="2022-07-25T21:28:05 EET" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeWithValidData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.AddEmployeeTest@51e69659]" started-at="2022-07-25T21:28:05 EET" name="closeBrowser" finished-at="2022-07-25T21:28:06 EET" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.AddEmployeeTest -->
+    </test> <!-- Tests -->
+  </suite> <!-- Test-OrangeHRM-Site -->
+</testng-results>
